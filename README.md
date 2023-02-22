@@ -3,7 +3,7 @@
 
 SQL Corporate covers the basics of working with SQL and to know to interact with database management systems and create powerful relational databases!
 
-The ER-Diagram is based on following requirements of Corporate. Anf further queried into SQL.
+The ER-Diagram is based on following requirements of Corporate. And further queried into SQL.
 
 The business is divided into branches. Each branch has a unique number, a name, and is managed by a specific employee.
 The company makes money by selling to customers. Each client is identified by a name and a unique number.
